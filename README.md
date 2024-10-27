@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Justdan</h1>
 <h3 align="center">Someone Who Never Got Skill In Fullstack Developer :v</h3>
-<img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif" width="300">
+<center>
+<img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif" width="300"></center>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justdanz&label=profile%20viewers&color=b40e0e&style=plastic" alt="justdanz" /> </p>
 
 - 🔭 I’m currently working on **Personal Project**
