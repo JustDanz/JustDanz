@@ -106,6 +106,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justdanz&theme=radical&layout=compact" alt="Top Languages" />
 </p>
 <p>
-<h1 align="center">###✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)</h1>
-</p>
+    <center>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
+</center>
