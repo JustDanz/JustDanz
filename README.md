@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Personal Project**
 
-- 🌱 I’m currently learning **Java, Dart, C, Django, Python, HTML, CSS, JavaScript And Other Framework**
+- 🌱 I’m currently learning **Java, C++, Django, Python, HTML, CSS, JavaScript And Other Framework**
 
 - 👨‍💻 My Personal Website [Click Here](https://justdan-personalwebsite.vercel.app/)
 
