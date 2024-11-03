@@ -12,7 +12,7 @@
 ### About Me
 - 🔭 I’m currently working on **Personal Projects**
 - 🌱 I’m currently learning **Java, C++, Django, Python, HTML, CSS, JavaScript, and other frameworks**
-- 👨‍💻 Check out my [Personal Website](https://justdan-personalwebsite.vercel.app/) ## Still Develop
+- 👨‍💻 Check out my [Personal Website](https://justdan-personalwebsite.vercel.app/) (Under Development)
 - 💬 Ask me about **HTML, Python, and CSS**
 - 📫 Reach me at **itzdanz2023@gmail.com**
 - ⚡ Fun fact: **I’m not a fullstack developer yet! :v**
