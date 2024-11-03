@@ -90,33 +90,6 @@
     </a>
 </p>
 
-## Languages and Tools
-
-This project utilizes a variety of programming languages and tools to build robust and efficient applications. Below is a list of the technologies used:
-
-- **Arduino**: Open-source electronics platform based on easy-to-use hardware and software.
-- **Bash**: Command-line interpreter for Unix-like operating systems.
-- **Bootstrap**: Popular HTML, CSS, and JavaScript framework for responsive design.
-- **C**: General-purpose programming language that is efficient and flexible.
-- **C++**: Object-oriented programming language built on C.
-- **CSS**: Stylesheet language used for describing the presentation of a document.
-- **Django**: High-level Python web framework for building secure and maintainable websites.
-- **Flask**: Lightweight WSGI web application framework in Python.
-- **Git**: Version control system to track changes in source code.
-- **HTML**: Standard markup language for documents designed to be displayed in a web browser.
-- **Java**: High-level programming language used for building applications.
-- **JavaScript**: Dynamic programming language commonly used for web development.
-- **Laravel**: PHP web application framework with elegant syntax.
-- **Linux**: Open-source operating system kernel.
-- **MongoDB**: NoSQL database for modern applications.
-- **Microsoft SQL Server**: Relational database management system.
-- **MySQL**: Open-source relational database management system.
-- **NGINX**: High-performance web server and reverse proxy server.
-- **Node.js**: JavaScript runtime built on Chrome's V8 engine.
-- **OpenCV**: Library for computer vision and image processing.
-- **PHP**: Server-side scripting language for web development.
-- **Python**: High-level programming language known for its readability and versatility.
-- **Tailwind CSS**: Utility-first CSS framework for rapid UI development.
 
 
 # 📊 GitHub Stats:
