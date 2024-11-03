@@ -105,6 +105,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=justdanz&show_icons=true&theme=radical&count_private=true" alt="Justdan's GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justdanz&theme=radical&layout=compact" alt="Top Languages" />
 </p>
-
-### ✍️ Random Dev Quote
+<p>
+<h1 align="center">✍️ Random Dev Quote</h1>
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
+</p>
