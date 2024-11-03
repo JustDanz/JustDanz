@@ -110,3 +110,5 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=justdanz&show_icons=true&theme=dracula&locale=en&layout=compact" alt="justdanz" /></p>
+
