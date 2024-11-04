@@ -32,9 +32,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JustDanz&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JustDanz&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=JustDanz&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=JustDanz&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true)
     
