@@ -1,4 +1,4 @@
-<img width="1248" height="898" alt="image" src="https://github.com/user-attachments/assets/b26bf39b-ada3-4d09-9b5e-3c24814b3434" /><h1 align="center">Hi 👋, I'm Justdan</h1>
+<h1 align="center">Hi 👋, I'm Justdan</h1>
 <h3 align="center">Not a Fullstack Developer :v</h3>
 <br>
 <p align="center">
