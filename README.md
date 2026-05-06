@@ -58,8 +58,6 @@
 ---
 
 # 📊 GitHub Stats
-
-<p align="center">
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustDanz&theme=tokyonight&hide_border=true&layout=compact" height="170"/>
 </p>
