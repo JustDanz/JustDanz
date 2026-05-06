@@ -41,10 +41,10 @@
 ## 🧠 Cybersecurity Tools
 
 <p align="left">
-<img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=gnometerminal&logoColor=white"/>
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge"/>
 </p>
 
 ---
@@ -52,32 +52,21 @@
 ## 🏆 TryHackMe Badge
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JustDanz&theme=tokyonight&hide_border=true&show_icons=true" height="170"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JustDanz&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/KaizerZero.png" alt="TryHackMe Badge" />
 </p>
 
 ---
 
 # 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JustDanz&theme=tokyonight&hide_border=true&show_icons=true" height="170"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JustDanz&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustDanz&theme=tokyonight&hide_border=true&layout=compact" height="170"/>
-</p>
-
----
-
-## 🔥 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JustDanz&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 🏅 Top Contributed Repo
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=JustDanz&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
 </p>
 
 ---
@@ -86,14 +75,6 @@
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
----
-
-## 🐍 Snake Eating Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
