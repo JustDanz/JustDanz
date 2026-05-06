@@ -81,12 +81,7 @@ Goal:
 # 📊 GitHub Stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JustDanz&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustDanz&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JustDanz&theme=tokyonight&hide_border=true"/>
+<img src="https://camo.githubusercontent.com/d62b8b0c06f7784a747b2399ec40ab93a5c38323cc68bb6636da38033c2596ec/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d4a75737444616e7a267468656d653d746f6b796f6e6967687426686964655f626f726465723d74727565" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=JustDanz&amp;theme=tokyonight&amp;hide_border=true" style="max-width: 100%;">
 </p>
 
 ---
