@@ -52,7 +52,9 @@
 ## 🏆 TryHackMe Badge
 
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/KaizerZero.png" alt="TryHackMe Badge" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JustDanz&theme=tokyonight&hide_border=true&show_icons=true" height="170"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JustDanz&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
